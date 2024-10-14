@@ -1,7 +1,8 @@
 export class FoglalasDto {
     name: string;
     email: string;
-    date: string;
+    date: Date;
+    time: string;
     viewers: string;
 
 
